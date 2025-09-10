@@ -1,9 +1,10 @@
 import Header from "../components/Header";
+import StatisticalCard from "../components/StatisticalCard";
 
 function Test() {
   return (
     <>
-      <Header />
+      <StatisticalCard />
     </>
   );
 }
